@@ -4,5 +4,5 @@ public class HelloWorld {
     public static void main (String[] args) {
 	System.out.println ("Hello World!");
     }
-lallayil muthal thirumanam Siva ku
+lallayil muthal thirumanam yaruku
 }
